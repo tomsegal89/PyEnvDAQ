@@ -1,0 +1,1 @@
+pyuic5 -o PyEnvDAQGUI.py PyEnvDAQGUI.ui
